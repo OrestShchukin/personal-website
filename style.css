@@ -134,3 +134,73 @@ main{
     flex-grow: 1;
     margin: 0 auto;
 }
+
+.black-box{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.507);
+    top: 0;
+}
+
+
+
+.more-button{
+    font-size: 40px;
+}
+.button-box{
+    display: inline-block;
+   
+}
+.ms-text{
+    text-align: left;
+}
+
+.form-box{
+    border-top: 3px solid black;
+    padding-top: 20px;
+}
+
+.form-text{
+    font-size: 45px;
+}
+
+.contacts-inputs{
+    width: 80%;
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.question-box{
+    min-height: 100px;
+}
+
+.submit-button{
+    font-size: 30px;
+}
+.link-box{
+    box-shadow: 0px -3px 7px rgba(0, 0, 0, 0.5);
+    width: 100%;
+    margin-top: 25px;
+}
+
+.instagram{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    font-size: 90px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.me-in-society-links{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 130px;
+}
+
+.haha{
+
+    font-size: 50px;
+}
